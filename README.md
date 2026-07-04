@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final-year **BS Computer Science** student at **FAST-NUCES, Islamabad** — **Gold Medalist**, CGPA 3.2/4.0
+- 🎓 **BS Computer Science** graduate from **FAST-NUCES, Islamabad** — **Gold Medalist**, CGPA 3.2/4.0
 - 🧠 I build **production LLM-powered applications**, multi-agent RAG systems, and computer vision pipelines
 - ☁️ Currently deepening my expertise in **AWS-native AI infra** (SageMaker, EKS), **Kubernetes**, and MLOps
 - 📱 Ship real, **production-grade mobile apps** in Flutter/Kotlin — not just tutorials
